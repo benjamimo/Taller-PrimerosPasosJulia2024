@@ -32,5 +32,7 @@ El repositorio está organizado de la siguiente manera:
 
 ## Sitios importantes
 https://julialang.org/
+
 https://www.julia-vscode.org/
+
 https://docs.juliaplots.org/stable/
