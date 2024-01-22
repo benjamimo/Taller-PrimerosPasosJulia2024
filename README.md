@@ -22,8 +22,7 @@ El taller se llevará a cabo de manera **virtual** del **22 al 26 de enero de 20
 ## Grabaciones
 Las grabaciones están en el siguiente folder compartido:
 
-https://www.dropbox.com/scl/fo/6azf1ul5ldgm6xb3254ho/h?rlkey=upbtrf3g4w32qatc8zbbl6f2l&dl=0
-
+https://www.dropbox.com/scl/fo/6azf1ul5ldgm6xb3254ho/h?rlkey=o6hdx241xxt0v49xnj53ucmtz&dl=0
 
 
 ## Navegación en el repositorio
