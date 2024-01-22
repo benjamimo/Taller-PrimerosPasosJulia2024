@@ -17,7 +17,7 @@ Introducir, de manera práctica, las bases de programación en Julia. A través 
 1. Ejemplos de despacho múltiple
 
 ## Fechas y horarios
-El taller se llevará a cabo de manera virtual del 22 al 26 de enero de 2024 en horario de 20:00 a 22:00 hrs.
+El taller se llevará a cabo de manera **virtual** del **22 al 26 de enero de 2024** en horario de **20:00 a 22:00 hrs**.
 
 ## Grabaciones
 Las grabaciones están en el siguiente folder compartido:
@@ -27,8 +27,8 @@ Las grabaciones están en el siguiente folder compartido:
 ## Navegación en el repositorio
 El repositorio está organizado de la siguiente manera:
 
-- src -- códigos (.jl) usados en las sesiones. Las presentaciones en pdf de lo visto en las sesiones está en la raíz del repositorio.
-- hw -- tareas del taller.
+- **src** -- códigos (.jl) usados en las sesiones. Las presentaciones en pdf de lo visto en las sesiones está en la raíz del repositorio.
+- **hw** -- tareas del taller.
 
 ## Sitios importantes
 https://julialang.org/
